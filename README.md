@@ -6,4 +6,5 @@ link to do practice : https://practice.geeksforgeeks.org/home/
 
 **Sorting :**
 1. Sort a String
+2. Binary Array Sorting 
 
