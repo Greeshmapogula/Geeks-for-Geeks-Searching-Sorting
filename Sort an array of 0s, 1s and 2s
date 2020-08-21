@@ -1,0 +1,2 @@
+def sort012(arr,n):
+    return(arr.sort())
