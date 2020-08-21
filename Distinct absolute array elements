@@ -1,0 +1,9 @@
+#code
+for _ in range(int(input())):
+    n=int(input())
+    l=list(map(int,input().split()))
+    c=[]
+    for i in l:
+        if abs(i) not in c:
+            c.append(abs(i))
+    print(len(c))
