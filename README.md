@@ -9,4 +9,5 @@ link to do practice : https://practice.geeksforgeeks.org/home/
 2. Binary Array Sorting
 3. Binary Array Sorting(without function)
 4. Sort in specific order
+5. Selection Sort 
 
