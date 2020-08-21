@@ -1,0 +1,10 @@
+def sortBinaryArray (arr, n):
+    # Your code here
+    l=[]
+    for i in arr:
+        if(i==0):
+            l.append(i)
+    for i in arr:
+        if(i==1):
+            l.append(i)
+    return (l)
