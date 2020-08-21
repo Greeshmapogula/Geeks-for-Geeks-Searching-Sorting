@@ -1,0 +1,15 @@
+#code
+for _ in range(int(input())):
+    n = input()
+    a = list(map(int,input().split()))
+    b = list(map(int,input().split()))
+    a.sort()
+    b.sort()
+    c=0
+    for i in range(int(n)):
+        if(a[i]<=b[i]):
+            c+=1
+    if(c==int(n)):
+        print('YES')
+    else:
+        print('NO')
