@@ -11,4 +11,5 @@ link to do practice : https://practice.geeksforgeeks.org/home/
 4. Sort in specific order
 5. Selection Sort 
 6. Sort an array of 0s, 1s and 2s 
+7. Fitting The Array
 
