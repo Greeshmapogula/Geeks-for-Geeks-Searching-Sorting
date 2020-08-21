@@ -4,4 +4,6 @@ Created this repository to save the codes I have done in **Geeks for Geeks** *Se
 
 link to do practice : https://practice.geeksforgeeks.org/home/
 
+**Sorting :**
+1. Sort a String
 
