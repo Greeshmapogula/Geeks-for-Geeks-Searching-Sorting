@@ -1,0 +1,6 @@
+for _ in range(int(input())):
+    l = int(input())
+    str = input()
+    lst = list(str)
+    lst.sort()
+    print("".join(lst))
