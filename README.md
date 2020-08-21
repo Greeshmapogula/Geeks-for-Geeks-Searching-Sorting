@@ -13,4 +13,5 @@ link to do practice : https://practice.geeksforgeeks.org/home/
 6. Sort an array of 0s, 1s and 2s 
 7. Fitting The Array
 8. Floor in a Sorted Array 
+9. Longest Consecutive Subsequence
 
