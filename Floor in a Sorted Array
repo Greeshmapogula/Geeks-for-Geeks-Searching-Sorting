@@ -1,0 +1,12 @@
+#code
+def fun(a,n,k):
+    for i in range(n):
+        if(a[i]==k):
+            return i
+        elif(a[i]>k):
+            return i-1
+    return n-1
+for  _ in range(int(input())):
+    a , n = map(int,input().split())
+    l = list(map(int,input().split()))
+    print(fun(l,a,n))
