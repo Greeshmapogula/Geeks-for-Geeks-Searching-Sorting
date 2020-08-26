@@ -17,3 +17,5 @@ link to do practice : https://practice.geeksforgeeks.org/home/
 10. Distinct absolute array elements 
 11. Find all four sum numbers 
 
+**Searching :**
+1.Count zeros in a sorted matrix
